@@ -19,3 +19,5 @@ conda install rasterio -c conda-forge
 # Basic topics: [Here](https://rasterio.readthedocs.io/en/latest/quickstart.html)
 
 # Advanced topics: [Here](https://rasterio.readthedocs.io/en/latest/topics/index.html#)
+
+### To get started, click [here](https://github.com/Idreesqbal/GeoTif3DPlot/blob/master/GeoTif3DModel.ipynb)
