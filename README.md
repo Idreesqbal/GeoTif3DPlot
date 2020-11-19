@@ -16,6 +16,6 @@ virtualenv installing guide for Anaconda: [click](https://wiki.math.ntnu.no/_med
 
 conda install rasterio -c conda-forge
 
-# Basics: [Here](https://rasterio.readthedocs.io/en/latest/quickstart.html)
+# Basic topics: [Here](https://rasterio.readthedocs.io/en/latest/quickstart.html)
 
-# Advance: [Here](https://rasterio.readthedocs.io/en/latest/topics/index.html#)
+# Advanced topics: [Here](https://rasterio.readthedocs.io/en/latest/topics/index.html#)
